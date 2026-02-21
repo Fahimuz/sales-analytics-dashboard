@@ -1,7 +1,7 @@
 Sales Analytics Dashboard (SQL Server + Python)
 
 🔹 How This Project Helps Others-
-This project helps businesses make data-driven decisions by analyzing sales performance, identifying high-revenue products, understanding customer behavior, and detecting profit trends. It transforms raw transactional data into actionable insights that support strategic planning and business growth.
+This project helps businesses make better decisions by analyzing sales data, identifying top products and customers, and tracking profit trends. It turns raw data into clear insights that support business growth.
 
 🔹 What I Did-
 
