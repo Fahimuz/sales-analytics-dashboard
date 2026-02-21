@@ -1,9 +1,9 @@
 Sales Analytics Dashboard (SQL Server + Python)
 
-🔹 How This Project Helps Others
+🔹 How This Project Helps Others-
 This project helps businesses make data-driven decisions by analyzing sales performance, identifying high-revenue products, understanding customer behavior, and detecting profit trends. It transforms raw transactional data into actionable insights that support strategic planning and business growth.
 
-🔹 What I Did
+🔹 What I Did-
 
 1.Designed a normalized relational database in SQL Server (Customers, Products, Orders, OrderItems, Location).
 2.Implemented primary keys, foreign keys, and 1-to-many relationships.
